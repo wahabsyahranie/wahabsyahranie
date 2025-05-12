@@ -28,7 +28,7 @@ I'm Wahab from Samarinda, East Kalimantan, Indonesia.
 
 ##
 
-### My GitHub Activity
+<!-- ### My GitHub Activity -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahabsyahranie&theme=dark&show_icons=true) -->
 
